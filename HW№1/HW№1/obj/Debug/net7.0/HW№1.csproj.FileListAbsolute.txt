@@ -1,0 +1,15 @@
+C:\Users\steam\OneDrive\Робочий стіл\C#Fundamentals\HW№1\HW№1\bin\Debug\net7.0\HW№1.exe
+C:\Users\steam\OneDrive\Робочий стіл\C#Fundamentals\HW№1\HW№1\bin\Debug\net7.0\HW№1.deps.json
+C:\Users\steam\OneDrive\Робочий стіл\C#Fundamentals\HW№1\HW№1\bin\Debug\net7.0\HW№1.runtimeconfig.json
+C:\Users\steam\OneDrive\Робочий стіл\C#Fundamentals\HW№1\HW№1\bin\Debug\net7.0\HW№1.dll
+C:\Users\steam\OneDrive\Робочий стіл\C#Fundamentals\HW№1\HW№1\bin\Debug\net7.0\HW№1.pdb
+C:\Users\steam\OneDrive\Робочий стіл\C#Fundamentals\HW№1\HW№1\obj\Debug\net7.0\HW№1.csproj.AssemblyReference.cache
+C:\Users\steam\OneDrive\Робочий стіл\C#Fundamentals\HW№1\HW№1\obj\Debug\net7.0\HW№1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steam\OneDrive\Робочий стіл\C#Fundamentals\HW№1\HW№1\obj\Debug\net7.0\HW№1.AssemblyInfoInputs.cache
+C:\Users\steam\OneDrive\Робочий стіл\C#Fundamentals\HW№1\HW№1\obj\Debug\net7.0\HW№1.AssemblyInfo.cs
+C:\Users\steam\OneDrive\Робочий стіл\C#Fundamentals\HW№1\HW№1\obj\Debug\net7.0\HW№1.csproj.CoreCompileInputs.cache
+C:\Users\steam\OneDrive\Робочий стіл\C#Fundamentals\HW№1\HW№1\obj\Debug\net7.0\HW№1.dll
+C:\Users\steam\OneDrive\Робочий стіл\C#Fundamentals\HW№1\HW№1\obj\Debug\net7.0\refint\HW№1.dll
+C:\Users\steam\OneDrive\Робочий стіл\C#Fundamentals\HW№1\HW№1\obj\Debug\net7.0\HW№1.pdb
+C:\Users\steam\OneDrive\Робочий стіл\C#Fundamentals\HW№1\HW№1\obj\Debug\net7.0\HW№1.genruntimeconfig.cache
+C:\Users\steam\OneDrive\Робочий стіл\C#Fundamentals\HW№1\HW№1\obj\Debug\net7.0\ref\HW№1.dll
